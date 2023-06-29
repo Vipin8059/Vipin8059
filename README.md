@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Vipin.</h1>
 <h3 align="center">Software Developer with a passion for Data Structures & Algorithms and strong problem-solving skills. My current tech stack includes Spring Boot, JAVA, and Amazon Web Services (AWS). As an enthusiastic team player, I am always eager to learn new technologies and collaborate with others to solve complex problems. With my creative problem-solving skills.</h3>
 
-- 💬 Ask me about **Java, Data Structures and Algorithms, OOPs, Spring Boot, MySQL**
+- 💬 Ask me about **Java, Data Structures and Algorithms, OOPs, Spring Boot, MySQL, Pl/SQL, ORACLE APEX**
 
 - 📫 How to reach me **yvipin98130y@gmail.com**
 
